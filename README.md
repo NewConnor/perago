@@ -12,4 +12,5 @@ Here are some examples of code written in Pérăgo
 
 
 `doc("This is an example");`
+
 In the code shown above, `doc` is a function equivalent to `print` in most programming languages.
